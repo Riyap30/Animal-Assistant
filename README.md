@@ -13,7 +13,7 @@ Incorporation of non profit organizations who will receive the photo and locatio
 ## 3) Vets Nearby
 Helps user to look for nearby vets and clinics along with a chatbot that will act as a first aid. 
 
-## 4) Show stopper- 
+# Show stopper- 
 Like never before, this project deals with non profit   organizations that can make a significant difference in aiding the injured animals. The user is free to help the animal as per their discretion and is also provided with a basic chatbot that can provide guidance. The lack of awareness regarding animal rescue that exists in the current scenario is made up for by this application along with actually taking the operation one step ahead.
 <br>
 
