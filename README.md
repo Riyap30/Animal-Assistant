@@ -17,6 +17,12 @@ Helps user to look for nearby vets and clinics along with a chatbot that will ac
 Like never before, this project deals with non profit   organizations that can make a significant difference in aiding the injured animals. The user is free to help the animal as per their discretion and is also provided with a basic chatbot that can provide guidance. The lack of awareness regarding animal rescue that exists in the current scenario is made up for by this application along with actually taking the operation one step ahead.
 <br>
 
+# Tech stack- 
+Java (For Application Development)
+Firebase (For Database)
+DialogFlow (For Chatbot)
+IDE: Android Studio
+
 # DESCRIPTION OF ALL FILES:
 ## Animal Assist/app/
 This directory contains the full implementation of a basic application for the Android platform, demonstrating the basic facilities that applications will use.
@@ -55,3 +61,7 @@ Contains all Firebase info and information of apis used
 
 ## Animal Assist/app/build.gradle:
 Located in the root project directory and its main function is to define the build configurations that will be applied to all the modules in the project. Contains all required dependencies for this app
+
+# The flow goes as follows
+![Screenshot (790)](https://user-images.githubusercontent.com/66573570/137525601-f5cfc68f-6970-4596-aa70-c4ec2cf8322b.png)
+
